@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstVirus.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  YeUtility.cpp
+c:\program files (x86)\windows kits\8.1\include\um\shlobj.h(2228): warning C4091: “typedef ”: 没有声明变量时忽略“tagDTI_ADTIWUI”的左侧
+  正在生成代码...
+  正在编译...
+  CreateService.cpp
+c:\program files (x86)\windows kits\8.1\include\um\shlobj.h(2228): warning C4091: “typedef ”: 没有声明变量时忽略“tagDTI_ADTIWUI”的左侧
+  正在生成代码...
+  FirstVirus.vcxproj -> D:\project\FirstVirus\Debug\CreateService.exe
+  FirstVirus.vcxproj -> D:\project\FirstVirus\Debug\CreateService.pdb (Full PDB)

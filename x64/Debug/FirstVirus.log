@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  CreateService.cpp
+c:\program files (x86)\windows kits\8.1\include\um\shlobj.h(2228): warning C4091: “typedef ”: 没有声明变量时忽略“tagDTI_ADTIWUI”的左侧
+  YeUtility.cpp
+c:\program files (x86)\windows kits\8.1\include\um\shlobj.h(2228): warning C4091: “typedef ”: 没有声明变量时忽略“tagDTI_ADTIWUI”的左侧
+d:\project\firstvirus\tools\yeutility.cpp(898): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+d:\project\firstvirus\tools\yeutility.cpp(961): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+d:\project\firstvirus\tools\yeutility.cpp(1099): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+d:\project\firstvirus\tools\yeutility.cpp(1140): warning C4244: “=”: 从“__int64”转换到“DWORD”，可能丢失数据
+d:\project\firstvirus\tools\yeutility.cpp(1147): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+d:\project\firstvirus\tools\yeutility.cpp(1215): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“libeay.lib”
